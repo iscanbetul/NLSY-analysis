@@ -1,1 +1,7 @@
 # NLSY-analysis
+Explanation 
+##Methodology
+
+
+
+
